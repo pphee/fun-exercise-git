@@ -1,3 +1,3 @@
 # Contributors
 
-- [phee](phee@github.com)
+- [p](p@github.com)
